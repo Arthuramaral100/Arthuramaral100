@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Meu nome é Arthur Amaral 👋
 
 <!--
 **Arthuramaral100/Arthuramaral100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
