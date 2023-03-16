@@ -1,5 +1,8 @@
 ### Olá, Meu nome é Arthur Amaral 👋
 
+## Sobre mim
+
+Sou Desenvolvedor Web Full Stack com foco em Front End, formado pelo bootcamp de Desenvolvimento Web Full Stack da Labenu. 
 <!--
 **Arthuramaral100/Arthuramaral100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
