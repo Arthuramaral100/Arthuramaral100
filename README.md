@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-** Sou Desenvolvedor Web Full Stack com foco em Front End, formado pelo bootcamp de Desenvolvimento Web Full Stack da Labenu. Apaixonado por tecnologia e as mudanças que ela causa ao mundo.
+* Sou Desenvolvedor Web Full Stack com foco em Front End, formado pelo bootcamp de Desenvolvimento Web Full Stack da Labenu. Apaixonado por tecnologia e as mudanças que ela causa ao mundo.
 
-** Aqui você irá encontrar projetos que realizei dentro e fora do bootcamp, além de repósitorios que utilizei para estudos e práticas de diversas tecnologias e linguagens.
+* Aqui você irá encontrar projetos que realizei dentro e fora do bootcamp, além de repósitorios que utilizei para estudos e práticas de diversas tecnologias e linguagens.
 
 ## ⚒ Linguagens e Ferramentas
 
