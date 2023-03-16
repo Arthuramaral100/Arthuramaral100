@@ -1,4 +1,4 @@
-### Olá, Meu nome é Arthur Amaral 👋
+# Olá, Meu nome é Arthur Amaral 👋
 
 ## Sobre mim
 
